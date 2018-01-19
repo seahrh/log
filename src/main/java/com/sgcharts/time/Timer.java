@@ -1,4 +1,4 @@
-package com.sgcharts.log;
+package com.sgcharts.time;
 
 import java.time.Duration;
 
